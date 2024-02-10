@@ -1,0 +1,16 @@
+.mycarousel{
+    max-width: 400px;
+}
+
+.container{
+    background-color: bisque;
+}
+
+.mynavbar{
+    background-color: burlywood;
+}
+
+.bottons{
+    background-color: rgb(235, 174, 216);
+    margin-right: 3px;
+}
